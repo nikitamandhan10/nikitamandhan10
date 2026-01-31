@@ -13,7 +13,7 @@ Welcome to my GitHub! I am passionate about designing and building **scalable da
 - **Cloud & Infra:** AWS (EMR, S3, Redshift, Lambda, Glue, SageMaker, Athena), Azure, GCP, IaC
 - **Analytics & BI:** Tableau, PowerBI, Quicksight
 - **Version Control & CI/CD:** Git, GitHub, Jenkins, Docker
-- **ML/AI:**  NumPy, Pandas, Matlab, TensorFlow, PyTorch, Hugging Face Transformers, OpenAI API
+- **ML/AI:**  NumPy, Pandas, Matlab, TensorFlow, PyTorch, Hugging Face Transformers, OpenAI API, LLM, RAG
 
 ---
 
