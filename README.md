@@ -10,7 +10,7 @@ Welcome to my GitHub! I am passionate about designing and building **scalable da
 - **Programming:** Python, PL/SQL, Java, Bash
 - **Big Data Technologies:** Apache Spark, Hadoop, Databricks, SparkSQL, Kafka, Data Lake, Apache Airflow 
 - **Databases & Warehouses:** PostgreSQL, MySQL, HiveQL, Amazon RDS/Aurora, NoSQL, DynamoDB, Oracle
-- **Cloud & Infra:** AWS (EMR, S3, Redshift, Lambda, Glue, SageMaker, Athena), Azure, GCP, IaC
+- **Cloud & Infra:** AWS, Azure, GCP
 - **Analytics & BI:** Tableau, PowerBI, Quicksight
 - **Version Control & CI/CD:** Git, GitHub, Jenkins, Docker
 - **ML/AI:**  NumPy, Pandas, Matlab, TensorFlow, PyTorch, Hugging Face Transformers, OpenAI API, LLM, RAG
