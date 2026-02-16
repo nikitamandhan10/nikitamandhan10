@@ -2,7 +2,7 @@
 
 🎯 **Data Engineer | Cloud & Big Data Enthusiast | Analytics Developer**
 
-Welcome! I design and build production-grade data platforms that turn raw data into reliable, high-impact insights. My focus is on scalable pipelines, modern cloud architectures, and performance-optimized data systems that power analytics, real-time processing, and AI/ML applications. I enjoy solving complex data problems, improving reliability at scale, and building systems that deliver measurable business impact.
+Welcome! I design and build **production-grade data platforms** that turn raw data into reliable, high-impact insights. My focus is on **scalable pipelines, modern cloud architectures, and performance-optimized data systems** that power analytics, real-time processing, and AI/ML applications. I enjoy solving complex data problems, improving reliability at scale, and building systems that deliver measurable business impact.
 ---
 
 ## 🔧 Tech Stack & Skills
