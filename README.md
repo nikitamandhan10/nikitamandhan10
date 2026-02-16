@@ -2,8 +2,7 @@
 
 🎯 **Data Engineer | Cloud & Big Data Enthusiast | Analytics Developer**
 
-Welcome to my GitHub! I am passionate about designing and building **scalable data pipelines**, optimizing **ETL workflows**, and enabling **data-driven decision making**. With hands-on experience in **data engineering, cloud platforms, and analytics**, I thrive on solving complex problems and delivering impactful data solutions.
-
+Welcome! I design and build production-grade data platforms that turn raw data into reliable, high-impact insights. My focus is on scalable pipelines, modern cloud architectures, and performance-optimized data systems that power analytics, real-time processing, and AI/ML applications. I enjoy solving complex data problems, improving reliability at scale, and building systems that deliver measurable business impact.
 ---
 
 ## 🔧 Tech Stack & Skills
