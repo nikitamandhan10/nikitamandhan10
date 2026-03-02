@@ -18,9 +18,9 @@ Welcome! I design and build **production-grade data platforms** that turn raw da
 ---
 
 ## 🌟 What I’m Working On
+- Preparing for Data Engineer roles
+- Building small, focused projects that demonstrate production-ready data pipelines
 - Exploring **AI-powered data workflows** and **agentic systems**  
-- Learning **LangChain** for LLM integrations  
-- Learning prompt engineering and cloud operations
 ---
 
 ## 📫 Connect With Me
