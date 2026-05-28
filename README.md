@@ -10,7 +10,7 @@ Welcome! I design and build **production-grade data platforms** that turn raw da
 - **Programming:** Python, PL/SQL, Java, Bash
 - **Big Data Technologies:** Apache Spark, Hadoop, Databricks, SparkSQL, Kafka, Data Lake, Apache Airflow 
 - **Databases & Warehouses:** PostgreSQL, MySQL, HiveQL, Amazon RDS/Aurora, NoSQL, DynamoDB, Oracle
-- **Cloud & Infra:** AWS, Azure, GCP
+- **Cloud & Infra:** AWS, GCP, Azure
 - **Analytics & BI:** Tableau, PowerBI, Quicksight
 - **Version Control & CI/CD:** Git, GitHub, Jenkins, Docker
 - **ML/AI:**  NumPy, Pandas, Matlab, TensorFlow, PyTorch, Hugging Face Transformers, OpenAI API, LLM, RAG
